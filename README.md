@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Romário Oliveira, sejam Bem vindos  👋
-
+- 🔭 Atualmente recem formada em Banco de Dados
 - 💻 Hoje Trabalho como analista de Teste e suporte a Sistema
 - 📚📓 Estudando SQL e PowerBI
 - 📧 Contate-me no e-mail: romariocboliveira@hotmail.com
