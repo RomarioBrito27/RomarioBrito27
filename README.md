@@ -14,6 +14,15 @@
   <img align="center" alt="Romario-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Romario-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
+
+<div align="center">
+  <a href="https://github.com/RomarioBrito27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisferreiras&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisferreiras&layout=compact&langs_count=7&theme=cobalt"/>
+</div>  
+
+
 <div> 
 
   <a href="https://instagram.com/romabrito27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
